@@ -18,3 +18,4 @@ CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc
 ### Hướng dẫn lập trình với mBlock (kéo thả khối)
 ### Hướng dẫn lập trình với Arduino (code C)
 ## Nhà phân phối
+- Các bạn có thể mua sản phẩm tại các [nhà phân phối của MakerLab](https://www.makerlab.vn/nha-phan-phoi/).
