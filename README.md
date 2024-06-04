@@ -9,9 +9,9 @@ CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc
 - Cấp nguồn an toàn qua cổng USB-C sử dụng sạc điện thoại hoặc pin dự phòng.
 
 ## Hình ảnh bộ kit
-
+[ciaobot2](/image/ciaobot1.png "Hinh anh bo kit CiaoBot")
 ## Các thành phần có trong bộ kit
-
+[ciaobot2](/image/ciaobot2.png "Cac thanh phan CiaoBot")
 ## Hướng dẫn sử dụng
 ### Giới thiệu
 ### Hướng dẫn lắp ráp
