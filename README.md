@@ -9,12 +9,14 @@ CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc
 - Cấp nguồn an toàn qua cổng USB-C sử dụng sạc điện thoại hoặc pin dự phòng.
 
 ## Hình ảnh bộ kit
-![ciaobot2](/image/ciaobot1.png "Hinh anh bo kit CiaoBot")
+![ciaobot main](/image/ciaobot1.png)
 ## Các thành phần có trong bộ kit
-![ciaobot2](/image/ciaobot2.png "Cac thanh phan CiaoBot")
+![ciaobot inside](/image/ciaobot2.png)
 ## Hướng dẫn sử dụng
 ### Giới thiệu
+[![Ciaobot introduce](/image/introduce.png)](https://www.youtube.com/watch?v=pvLTHNnOPeM)
 ### Hướng dẫn lắp ráp
+[![Ciaobot assembly](/image/assembly.png)](https://www.youtube.com/watch?v=QY7m3F5WTkc)
 ### Hướng dẫn lập trình với mBlock (kéo thả khối)
 >- Tải và cài đặt phần mềm mBlock 5 ([Windows](https://www.mediafire.com/file/ma55iajd7glwmbo/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Windows.zip/file) / [Mac Intel](https://www.mediafire.com/file/pjfngy6d7ktb55f/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Mac_Intel.zip/file) / [Mac M1M2](https://www.mediafire.com/file/mfdkgpgnpa7uv2s/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Mac_M1M2.zip/file))
 >- Thêm Device "MakerEdu Creator" by MakerEduVN
