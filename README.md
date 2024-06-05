@@ -17,10 +17,10 @@ CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc
 ### Hướng dẫn lắp ráp
 ### Hướng dẫn lập trình với mBlock (kéo thả khối)
 >Tải và cài đặt phần mềm mBlock 5 ([Windows](https://www.mediafire.com/file/ma55iajd7glwmbo/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Windows.zip/file) / [Mac Intel](https://www.mediafire.com/file/pjfngy6d7ktb55f/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Mac_Intel.zip/file) / [Mac M1M2](https://www.mediafire.com/file/mfdkgpgnpa7uv2s/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Mac_M1M2.zip/file))
->Thêm Device "MakerEdu Creator" by MakerEduVN
->Thêm Extension "Upload Mode Broadcast" by mBlock Official
->Thêm Extension "MakerEdu Hardware" by MakerEduVN
->Mở [chương trình mẫu tại đây](/mBlock5), kết nối mạch và nạp chương trình.
+>  Thêm Device "MakerEdu Creator" by MakerEduVN
+>  Thêm Extension "Upload Mode Broadcast" by mBlock Official
+>  Thêm Extension "MakerEdu Hardware" by MakerEduVN
+>  Mở [chương trình mẫu tại đây](/mBlock5), kết nối mạch và nạp chương trình.
 ### Hướng dẫn lập trình với Arduino (code C)
 ## Nhà phân phối
 - Các bạn có thể mua sản phẩm tại các [nhà phân phối của MakerLab](https://www.makerlab.vn/nha-phan-phoi/).
