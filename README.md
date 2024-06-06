@@ -29,6 +29,11 @@ Module phát âm thanh sử dụng thẻ nhớ MicroSD để lưu trữ âm than
 - Thêm Extension "Upload Mode Broadcast" by mBlock Official
 - Thêm Extension "MakerEdu Hardware" by MakerEduVN
 - Mở [chương trình mẫu tại đây](/mBlock5), kết nối mạch và nạp chương trình.
+### Hướng dẫn lập trình với Arduino (code C)
+- Tải và cài đặt [phần mềm Arduino tại đây.](https://www.arduino.cc/en/software)
+- Trong Tools / Library Manager, tìm và cài đặt bộ thư viện tổng hợp "MAKERLABVN" by MakerLab.vn
+- Mở chương trình mẫu tại File / Examples / MAKERLABVN / Kit / CiaoBot hoặc [tải chương trình mẫu tại đây](/arduino)
+- Chọn board là Arduino Uno (mạch MakerEdu Creator tương thích với Arduino Uno), chọn đúng cổng COM Port của mạch và tiến hành nạp chương trình.
 ## Hỗ trợ và liên hệ:
 - Website: [https://www.makerlab.vn/](https://www.makerlab.vn/)
 - Facebook: [https://www.facebook.com/makerlabvn](https://www.facebook.com/makerlabvn)
