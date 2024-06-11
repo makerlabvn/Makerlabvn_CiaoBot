@@ -46,4 +46,4 @@ Module phát âm thanh sử dụng thẻ nhớ MicroSD để lưu trữ âm than
 - Website: [https://www.makerlab.vn/](https://www.makerlab.vn/)
 - Facebook: [https://www.facebook.com/makerlabvn](https://www.facebook.com/makerlabvn)
 ## Nhà phân phối
-- Các bạn có thể mua sản phẩm tại các [nhà phân phối của MakerLab](https://www.makerlab.vn/nha-phan-phoi/).
+- Các bạn có thể mua sản phẩm tại các [nhà phân phối của MakerLab](https://www.makerlab.vn/distributor/).
