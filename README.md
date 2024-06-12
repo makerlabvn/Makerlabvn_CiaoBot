@@ -1,5 +1,5 @@
 # CiaoBot
-CiaoBot là một sản phẩm của MakerLabvn giúp bạn tự DIY một chiếc máy chào khách với những ưu điểm vượt trội so với hầu hết các loại máy chào khách chỉ kêu "kính cong" đơn điệu trên thị trường.
+CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc máy chào khách với những ưu điểm vượt trội so với hầu hết các loại máy chào khách chỉ kêu "kính cong" đơn điệu trên thị trường.
 ## Các ưu điểm của CiaoBot
 
 - Vì đây là một bộ kit theo hướng DIY nên chương trình sẽ được cung cấp để các bạn có thể tùy chỉnh, hỗ trợ Arduino (code C) và mBlock (kéo thả khối), giúp bạn có thể tùy biến, bổ sung các chức năng mong muốn.
@@ -21,7 +21,7 @@ CiaoBot là một sản phẩm của MakerLabvn giúp bạn tự DIY một chi�
 Mạch điều khiển trung tâm MakerEdu Creator sử dụng Driver giao tiếp máy tính CH340 sẽ tự động nhận Driver trên các hệ điều hành Windows / MacOS / Linux, tuy nhiên nếu không nhận cổng COM của mạch bạn vẫn có thể [tải và cài đặt Driver cho CH340 tại đây.](https://www.mediafire.com/file/fsem9mtf5yl56q6/[MakerLab.vn]+CH340+Driver+WinMacLinux.zip/file), để kiểm tra cổng COM đã nhận trên hệ điều hành Windows các bạn tìm kiếm "Device Manager" trong mục "Port (COM & LPT)" sẽ thấy nhận thiết bị CH340 (COMx) như hình.
 
 ![ciaobot comport](/image/comport.png)
- ### Chuẩn bị thẻ nhớ MicroSD
+### Chuẩn bị thẻ nhớ MicroSD
 Module phát âm thanh sử dụng thẻ nhớ MicroSD để lưu trữ âm thanh dưới định dạng *.mp3, các bạn format thẻ theo định dạng FAT32, tạo một thư mục có tên là MP3 và tạo các file âm thanh có cấu trúc tên 0001_xxx.mp3, 0002_xxx.mp3,..., 0999_xxx.mp3 như hình, khi gọi file âm thanh trong chương trình sẽ chỉ cần gọi theo số thứ tự 1,2,...,999 là ta sẽ phát được file yêu cầu.
 
 ![ciaobot sdcard](/image/sdcard.png)
