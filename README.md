@@ -6,7 +6,7 @@ CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc
 - Âm thanh máy chào (như "MakerLab xin chào" / "MakerLab tạm biệt") là dạng *.mp3 có thể thay đổi dễ dàng qua thẻ nhớ đi kèm.
 - Sử dụng 2 cảm biến vật cản quang học chất lượng cao giúp phát hiện chiều ra / vào.
 - Tích hợp màn hình LCD hiển thị thông tin như số lượt checkin, dung lượng phòng (capacity).
-- Cấp nguồn an toàn qua cổng USB-C sử dụng sạc điện thoại hoặc pin dự phòng.
+- Cấp nguồn an toàn qua cổng USB-C (5VDC) sử dụng sạc điện thoại hoặc pin dự phòng.
 
 ## Hình ảnh bộ kit
 ![ciaobot main](/image/ciaobot1.png)
