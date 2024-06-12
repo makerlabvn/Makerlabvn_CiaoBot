@@ -1,7 +1,8 @@
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-hacker
 theme: jekyll-theme-leap-day
-title: Hướng dẫn sử dụng Ciaobot
+
+# title: Hướng dẫn sử dụng Ciaobot
 description: Đây là tất cả tài liệu về Ciaobot. Hướng dẫn từng bước một
 show_downloads: "true"
 
