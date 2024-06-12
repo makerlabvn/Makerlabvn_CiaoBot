@@ -2,9 +2,9 @@
 # theme: jekyll-theme-hacker
 theme: jekyll-theme-leap-day
 title: [Hướng dẫn sử dụng Ciaobot]
-description: [Đây là tất cả tài liệu về Ciaobot. Hướng dẫn từng bước một]
-show_downloads: ["true"]
+description: Đây là tất cả tài liệu về Ciaobot. Hướng dẫn từng bước một
+show_downloads: "true"
 
-github:
-  zip_url: http://example.com/download.zip
-  another_url: Hshop.vn
+# You can custom zip url
+# github:
+#   zip_url: http://example.com/download.zip
