@@ -1,5 +1,5 @@
 # CiaoBot
-CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc máy chào khách với những ưu điểm vượt trội so với hầu hết các loại máy chào khách chỉ kêu "kính cong" đơn điệu trên thị trường.
+CiaoBot là một sản phẩm của MakerLabvn giúp bạn tự DIY một chiếc máy chào khách với những ưu điểm vượt trội so với hầu hết các loại máy chào khách chỉ kêu "kính cong" đơn điệu trên thị trường.
 ## Các ưu điểm của CiaoBot
 
 - Vì đây là một bộ kit theo hướng DIY nên chương trình sẽ được cung cấp để các bạn có thể tùy chỉnh, hỗ trợ Arduino (code C) và mBlock (kéo thả khối), giúp bạn có thể tùy biến, bổ sung các chức năng mong muốn.
