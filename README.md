@@ -18,7 +18,7 @@ CiaoBot là một sản phẩm của MakerLab giúp bạn tự DIY một chiếc
 ### Hướng dẫn lắp ráp
 [![Ciaobot assembly](/image/assembly.png)](https://www.youtube.com/watch?v=QY7m3F5WTkc)
 ### Cài đặt Driver
-Mạch điều khiển trung tâm MakerEdu Creator sử dụng Driver giao tiếp máy tính CH340 sẽ tự động nhận Driver trên các hệ điều hành Windows / MacOS / Linux, tuy nhiên nếu không nhận cổng COM của mạch bạn vẫn có thể [tải và cài đặt Driver cho CH340 tại đây.](https://www.mediafire.com/file/fsem9mtf5yl56q6/[MakerLab.vn]+CH340+Driver+WinMacLinux.zip/file), để kiểm tra cổng COM đã nhận trên hệ điều hành Windows các bạn tìm kiếm "Device Manager" trong mục "Port (COM & LPT)" sẽ thấy nhận thiết bị CH340 (COMx) như hình.
+Mạch điều khiển trung tâm MakerEdu Creator sử dụng Driver giao tiếp máy tính CH340 sẽ tự động nhận Driver trên các hệ điều hành Windows / MacOS / Linux, tuy nhiên nếu không nhận cổng COM của mạch bạn vẫn có thể [tải và cài đặt Driver cho CH340 tại đây.](https://www.makerlab.vn/ch340driver), để kiểm tra cổng COM đã nhận trên hệ điều hành Windows các bạn tìm kiếm "Device Manager" trong mục "Port (COM & LPT)" sẽ thấy nhận thiết bị CH340 (COMx) như hình.
 
 ![ciaobot comport](/image/comport.png)
 ### Chuẩn bị thẻ nhớ MicroSD
