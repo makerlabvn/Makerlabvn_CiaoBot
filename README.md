@@ -30,6 +30,7 @@ Mạch điều khiển trung tâm MakerEdu Creator sử dụng Driver giao tiế
 
 ### Chuẩn bị thẻ nhớ MicroSD
 Module phát âm thanh sử dụng thẻ nhớ MicroSD để lưu trữ âm thanh dưới định dạng *.mp3, các bạn format thẻ theo định dạng FAT32, tạo một thư mục có tên là MP3 và tạo các file âm thanh có cấu trúc tên 0001_xxx.mp3, 0002_xxx.mp3,..., 0999_xxx.mp3 như hình, khi gọi file âm thanh trong chương trình sẽ chỉ cần gọi theo số thứ tự 1,2,...,999 là ta sẽ phát được file yêu cầu.
+
 Trang web hỗ trợ tạo tiếng nói định dạng mp3: [https://ttsfree.com/vn](https://ttsfree.com/vn)
 
 ![ciaobot sdcard](/image/sdcard.png)
